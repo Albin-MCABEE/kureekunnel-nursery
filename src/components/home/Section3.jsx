@@ -14,7 +14,7 @@ function Section3() {
 
       <div className="flex flex-col lg:flex-row mt-4 lg:mt-8">
         <div className="lg:w-[50%]">
-          <img src="./Nutmeg.svg" className="mx-auto" alt="img" />
+          <img src="./Baby.svg" className="mx-auto" alt="img" />
         </div>
         <div className="lg:w-[50%] text-[#333333] sm:px-4 mt-4 lg:mt-0">
           <h1 className=" font-semibold text-[32px]">Our Journey</h1>
@@ -34,31 +34,38 @@ function Section3() {
             orchard.
           </p>
 
-         <div className="flex flex-col sm:flex-row sm:gap-6">
-             <div className="flex flex-col gap-4 mt-4">
-            <div className="flex items-center gap-3">
-              <img src="./tick.svg" alt="tick-img" />
-              <p className="text-[14px] sm:text-[16px]">45+ years of experience</p>
+          <div className="flex flex-col sm:flex-row sm:gap-6">
+            <div className="flex flex-col gap-4 mt-4">
+              <div className="flex items-center gap-3">
+                <img src="./tick.svg" alt="tick-img" />
+                <p className="text-[14px] sm:text-[16px]">
+                  45+ years of experience
+                </p>
+              </div>
+              <div className="flex items-center gap-3">
+                <img src="./tick.svg" alt="tick-img" />
+                <p className="text-[14px] sm:text-[16px]">
+                  Expert Consultation
+                </p>
+              </div>
             </div>
-            <div className="flex items-center gap-3">
-              <img src="./tick.svg" alt="tick-img" />
-              <p className="text-[14px] sm:text-[16px]">Expert Consultation</p>
+
+            <div className="flex flex-col gap-4 mt-4">
+              <div className="flex items-center gap-3">
+                <img src="./tick.svg" alt="tick-img" />
+                <p className="text-[14px] sm:text-[16px]">
+                  Premium Plant Quality
+                </p>
+              </div>
+              <div className="flex items-center gap-3">
+                <img src="./tick.svg" alt="tick-img" />
+                <p className="text-[14px] sm:text-[16px]">After sale support</p>
+              </div>
             </div>
           </div>
-
-          <div className="flex flex-col gap-4 mt-4">
-            <div className="flex items-center gap-3">
-              <img src="./tick.svg" alt="tick-img" />
-              <p className="text-[14px] sm:text-[16px]">Premium Plant Quality</p>
-            </div>
-            <div className="flex items-center gap-3">
-              <img src="./tick.svg" alt="tick-img" />
-              <p className="text-[14px] sm:text-[16px]">After sale support</p>
-            </div>
-          </div>
-         </div>
-            <button className='bg-[#2E7D32] text-white rounded-[8px] py-[10px] sm:py-[12px] px-[30px] sm:px-[40px] mt-4'>Explore Plants</button>
-
+          <button className="bg-[#2E7D32] text-white rounded-[8px] py-[10px] sm:py-[12px] px-[30px] sm:px-[40px] mt-4">
+            Explore Plants
+          </button>
         </div>
       </div>
     </div>
