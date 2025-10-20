@@ -51,7 +51,6 @@ function Section6() {
           <p className="text-[14px] text-[#333333">Vaikom, Kottayam</p>
         </div>
       </div>
-
     </div>
   );
 }
