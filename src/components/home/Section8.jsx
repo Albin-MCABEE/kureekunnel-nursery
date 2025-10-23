@@ -29,7 +29,7 @@ function Section8() {
               <h1 className="font-semibold text-[14px] text-[#333333] text-center sm:text-left">
                 Address
               </h1>
-              <p className="text-[#333333] text-[14px] text-center sm:text-left">
+              <p className="text-[#333333] text-[16px] text-center sm:text-left">
                 Kureekunnel (H), Neeloor P.O, Pala, Kottayam - 686 651
               </p>
             </div>
@@ -42,7 +42,7 @@ function Section8() {
               <h1 className="font-semibold text-[14px] text-[#333333] text-center sm:text-left">
                 Phone
               </h1>
-              <p className="text-[#333333] text-[14px] text-center sm:text-left">
+              <p className="text-[#333333] text-[16px] text-center sm:text-left">
                 +91 - 9020211841
               </p>
             </div>
@@ -55,7 +55,7 @@ function Section8() {
               <h1 className="font-semibold text-[14px] text-[#333333] text-center sm:text-left">
                 Mail
               </h1>
-              <p className="text-[#333333] text-[14px] text-center sm:text-left">
+              <p className="text-[#333333] text-[16px] text-center sm:text-left">
                 mail@kureekunnelnursery.com
               </p>
             </div>
