@@ -8,8 +8,8 @@ function Footer() {
           Kureekunnel Nursery
         </h1>
         <p className="text-[14px] sm:text-[16px] text-center lg:text-left">
-          Established in 1986, we’ve been growing quality
-          <br /> plants for over four decades.
+          Established in 1986, we’ve been growing quality <br /> plants for over
+          four decades.
         </p>
       </div>
 

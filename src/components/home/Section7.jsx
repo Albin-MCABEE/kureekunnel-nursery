@@ -16,15 +16,17 @@ function Section7() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="flex justify-center items-center gap-4 rounded-[8px] bg-white text-[16px] md:text-[20px] text-[#333333] py-[10px] sm:py-[12] px-[30px] sm:px-[60px] cursor-pointer">
+          <button className="flex justify-center items-center gap-4 rounded-[8px] bg-white text-[16px] md:text-[20px] text-[#333333] py-[10px] sm:py-[12px] px-[30px] sm:px-[60px] cursor-pointer">
             <img src="./whatsapp.svg" alt="img" />
             <span className="hidden md:inline-block">Connect via </span>WhatsApp
           </button>
         </a>
 
-        <button className="flex justify-center items-center gap-4 rounded-[8px] bg-white text-[16px] md:text-[20px] text-[#333333]  py-[10px] sm:py-[12] px-[30px] sm:px-[60px]">
-          Call
-        </button>
+        <a href="tel:+919020211841">
+          <button className="flex justify-center items-center gap-4 rounded-[8px] bg-white text-[16px] md:text-[20px] text-[#333333] py-[10px] sm:py-[12px] px-[30px] sm:px-[60px] cursor-pointer">
+            Call
+          </button>
+        </a>
       </div>
     </div>
   );
